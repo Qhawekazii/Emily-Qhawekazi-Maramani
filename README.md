@@ -56,17 +56,14 @@ History quiz Android application with score tracking and interactive gameplay.
 ## 👶 KinderNest
 Modern childcare platform concept with clean UI and responsive design.
 
-https://kindernest-five.vercel.app/
-
+🔗 https://kindernest-five.vercel.app/
+🔗 https://github.com/St10482946/kindernest.git
 ---
 
 ## Brief UI Screenshot
 Replicated an exitsing UI screenshot.
 
----
-
-
-
+🔗 https://brief-brief-one.vercel.app/
 ---
 
 # 📫 Connect With Me
