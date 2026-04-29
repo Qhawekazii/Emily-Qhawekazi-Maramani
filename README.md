@@ -11,7 +11,7 @@ Passionate about turning ideas into real digital products using modern technolog
 
 # 🌐 Portfolio
 
-🔗 [View My Portfolio Website](https://yourportfoliolink.com)
+🔗 [View My Portfolio Website](https://my-portfolio-three-roan-41.vercel.app/)
 
 ---
 
@@ -71,7 +71,7 @@ Replicated an exitsing UI screenshot.
 
 - GitHub: https://github.com/Qhawekazii
 - LinkedIn: https://linkedin.com/in/www.linkedin.com/in/emily-maramani-ab0765320
-- Portfolio: https://yourportfolio.com
+- Portfolio: https://my-portfolio-three-roan-41.vercel.app/
 
 ---
 
