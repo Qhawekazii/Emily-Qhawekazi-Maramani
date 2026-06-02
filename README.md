@@ -51,15 +51,7 @@ A history quiz application built using Kotlin and Jetpack Compose. Users answer 
 Live Demo:
 https://histoquizz.netlify.app/
 
-GitHub Repository:
-
-
-Case Study:
-(Add Case Study Link)
-
-Screenshot:
-
-![HistoQuiz Screenshot](images/histoquiz.png)
+GitHub Repository: https://github.com/St10482946/HistoQuiz.git
 
 ---
 
@@ -73,13 +65,6 @@ https://kindernest-five.vercel.app/
 GitHub Repository:
 https://github.com/St10482946/kindernest.git
 
-Case Study:
-(Add Case Study Link)
-
-Screenshot:
-
-![KinderNest Screenshot](images/kindernest.png)
-
 ---
 
 ### To-Do List Application
@@ -92,13 +77,6 @@ Live Demo:
 GitHub Repository:
 https://github.com/Qhawekazii/To_Do_List-.git
 
-Case Study:
-(Add Case Study Link)
-
-Screenshot:
-
-![To Do List Screenshot](images/todolist.png)
-
 ---
 
 ### Netflix Clone
@@ -106,26 +84,10 @@ Screenshot:
 A Netflix-inspired interface built to practice responsive layouts, content organization, and modern front-end design techniques.
 
 Live Demo:
-(Add Live Link)
+https://netflip-clone.netlify.app/?authuser=0
 
 GitHub Repository:
-(Add Repository Link)
-
-Screenshot:
-
-![Netflix Clone Screenshot](images/netflixclone.png)
-
----
-
-## Case Studies
-
-### KinderNest Case Study
-
-(Add Link)
-
-### To-Do List Case Study
-
-(Add Link)
+https://github.com/Qhawekazii/Netflip.git
 
 ---
 
@@ -155,12 +117,4 @@ https://my-portfolio-three-roan-41.vercel.app/
 
 Email:
 emilyqm01@gmail.com
-
----
-
-## GitHub Statistics
-
-![Emily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qhawekazii\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qhawekazii\&layout=compact\&theme=default)
 
