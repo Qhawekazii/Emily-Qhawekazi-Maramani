@@ -87,10 +87,10 @@ Screenshot:
 A task management application that allows users to create, organize, and track daily tasks efficiently.
 
 Live Demo:
-(Add Live Link)
+[(Add Live Link)](https://qhawekazii.github.io/To_Do_List-/)
 
 GitHub Repository:
-(Add Repository Link)
+https://github.com/Qhawekazii/To_Do_List-.git
 
 Case Study:
 (Add Case Study Link)
