@@ -1,85 +1,166 @@
-# Emily-Qhawekazi-Maramani
-# Hi I'm Emily Qhawekazi Maramani
+# Emily Qhawekazi Maramani
 
-## 🚀 Fullstack Developer | Android Developer | UI Designer
+## Fullstack Developer | Android Developer | UI Designer
 
-I build modern websites, Android applications, and clean UI/UX experiences.
+I am a software development student and aspiring fullstack developer with experience building responsive websites and Android applications. I enjoy solving problems through technology and creating user-friendly digital experiences.
 
-Passionate about turning ideas into real digital products using modern technologies.
-
----
-
-# 🌐 Portfolio
-
-🔗 [View My Portfolio Website](https://my-portfolio-three-roan-41.vercel.app/)
+My work focuses on web development, mobile application development, UI design, and turning ideas into functional products.
 
 ---
 
-# 👩‍💻 About Me
+## Portfolio
 
-- 🔭 Currently building modern web & mobile applications
-- 🌱 Learning advanced Fullstack Development
-- 🎨 Passionate about UI/UX Design
-- 📱 Android App Developer using Kotlin
-- ⚡ Love building clean and responsive interfaces
+Portfolio Website:
+https://my-portfolio-three-roan-41.vercel.app/
 
 ---
 
-# 🛠️ Languages & Technologies
+## Tech Stack
 
-## Frontend
-- HTML5
-- CSS3
-- JavaScript
+### Frontend
 
-## Mobile Development
-- Kotlin
-- Android Studio
+* HTML5
+* CSS3
+* JavaScript
 
-## Tools
-- Git
-- GitHub
-- VS Code
-- Figma
+### Mobile Development
 
----
+* Kotlin
+* Jetpack Compose
+* Android Studio
 
-# 🚀 Featured Projects
+### Design
 
-## 📚 HistoQuiz App
-History quiz Android application with score tracking and interactive gameplay.
+* Figma
+* UI/UX Design
 
-🔗 https://histoquizz.netlify.app/
+### Development Tools
 
----
-
-## 👶 KinderNest
-Modern childcare platform concept with clean UI and responsive design.
-
-🔗 https://kindernest-five.vercel.app/
-🔗 https://github.com/St10482946/kindernest.git
----
-
-## Brief UI Screenshot
-Replicated an exitsing UI screenshot.
-
-🔗 https://brief-brief-one.vercel.app/
----
-
-# 📫 Connect With Me
-
-- GitHub: https://github.com/Qhawekazii
-- LinkedIn: https://linkedin.com/in/www.linkedin.com/in/emily-maramani-ab0765320
-- Portfolio: https://my-portfolio-three-roan-41.vercel.app/
+* Git
+* GitHub
+* VS Code
 
 ---
 
-# 📊 GitHub Stats
+## Featured Projects
 
-![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhawekazii&show_icons=true&theme=tokyonight)
+### HistoQuiz App
+
+A history quiz application built using Kotlin and Jetpack Compose. Users answer history-based questions, receive immediate feedback, and view their final score.
+
+Live Demo:
+https://histoquizz.netlify.app/
+
+GitHub Repository:
+
+
+Case Study:
+(Add Case Study Link)
+
+Screenshot:
+
+![HistoQuiz Screenshot](images/histoquiz.png)
 
 ---
 
-# 💻 Most Used Languages
+### KinderNest Website
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhawekazii&layout=compact&theme=tokyonight)
+KinderNest is a childcare platform concept designed to provide parents with information about educational services through a clean and responsive interface.
+
+Live Demo:
+https://kindernest-five.vercel.app/
+
+GitHub Repository:
+https://github.com/St10482946/kindernest.git
+
+Case Study:
+(Add Case Study Link)
+
+Screenshot:
+
+![KinderNest Screenshot](images/kindernest.png)
+
+---
+
+### To-Do List Application
+
+A task management application that allows users to create, organize, and track daily tasks efficiently.
+
+Live Demo:
+(Add Live Link)
+
+GitHub Repository:
+(Add Repository Link)
+
+Case Study:
+(Add Case Study Link)
+
+Screenshot:
+
+![To Do List Screenshot](images/todolist.png)
+
+---
+
+### Netflix Clone
+
+A Netflix-inspired interface built to practice responsive layouts, content organization, and modern front-end design techniques.
+
+Live Demo:
+(Add Live Link)
+
+GitHub Repository:
+(Add Repository Link)
+
+Screenshot:
+
+![Netflix Clone Screenshot](images/netflixclone.png)
+
+---
+
+## Case Studies
+
+### KinderNest Case Study
+
+(Add Link)
+
+### To-Do List Case Study
+
+(Add Link)
+
+---
+
+## Education
+
+Higher Certificate in Mobile Application and Web Development
+
+Current focus areas:
+
+* Fullstack Development
+* Android Development
+* User Interface Design
+* Software Development Principles
+
+---
+
+## Contact
+
+GitHub:
+https://github.com/Qhawekazii
+
+LinkedIn:
+https://linkedin.com/in/emily-maramani-ab0765320
+
+Portfolio:
+https://my-portfolio-three-roan-41.vercel.app/
+
+Email:
+emilyqm01@gmail.com
+
+---
+
+## GitHub Statistics
+
+![Emily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qhawekazii\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qhawekazii\&layout=compact\&theme=default)
+
