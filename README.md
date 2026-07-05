@@ -1,95 +1,78 @@
 # Emily Qhawekazi Maramani
 
-## Fullstack Developer | Android Developer | UI Designer
+Fullstack Developer | Android Developer | UI Designer
 
-I am a software development student and aspiring fullstack developer with experience building responsive websites and Android applications. I enjoy solving problems through technology and creating user-friendly digital experiences.
+I am an aspiring full stack developer focused on building web and Android applications that are practical, responsive, and user-focused. My work combines frontend development, mobile development, and UI design, with an interest in turning ideas into usable digital products.
 
-My work focuses on web development, mobile application development, UI design, and turning ideas into functional products.
+Portfolio: https://qhawekazii.github.io/My-Portfolio/
 
----
+## What I Do
 
-## Portfolio
+- Build responsive websites with HTML, CSS, and JavaScript
+- Develop Android applications with Kotlin and Jetpack Compose
+- Design clean and accessible user interfaces
+- Turn project ideas into working digital products
 
-Portfolio Website:
-https://my-portfolio-three-roan-41.vercel.app/
+## Skills
 
----
-
-## Tech Stack
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-
-### Mobile Development
-
-* Kotlin
-* Jetpack Compose
-* Android Studio
-
-### Design
-
-* Figma
-* UI/UX Design
-
-### Development Tools
-
-* Git
-* GitHub
-* VS Code
-
----
+- HTML
+- CSS
+- JavaScript
+- Kotlin
+- Jetpack Compose
+- React Native
+- Git
+- GitHub
+- UI Design
 
 ## Featured Projects
 
 ### HistoQuiz App
 
-A history quiz application built using Kotlin and Jetpack Compose. Users answer history-based questions, receive immediate feedback, and view their final score.
+A history quiz application built with Kotlin and Jetpack Compose. It includes interactive questions, score tracking, and a smooth quiz flow.
 
-Live Demo:
-https://histoquizz.netlify.app/
+- Live: https://histoquizz.netlify.app/
+- GitHub: https://github.com/Qhawekazii/histoquiz
 
-GitHub Repository: https://github.com/St10482946/HistoQuiz.git
+### Tesla Landing Page
 
----
+A responsive Tesla-inspired landing page created to strengthen frontend layout and design skills.
 
-### KinderNest Website
+- GitHub: https://github.com/Qhawekazii/tesla-landing-page
 
-KinderNest is a childcare platform concept designed to provide parents with information about educational services through a clean and responsive interface.
+### Chef Menu App
 
-Live Demo:
-https://kindernest-five.vercel.app/
+A React Native application that allows users to browse and filter menu items through a simple interface.
 
-GitHub Repository:
-https://github.com/St10482946/kindernest.git
+- Demo: https://snack.expo.dev/@qhawekazi/mast-part-3
+- GitHub: https://github.com/St10482946/ChefMenuApp
 
----
+### KinderNest
 
-### To-Do List Application
+A childcare platform concept designed with a clean layout and responsive user experience.
 
-A task management application that allows users to create, organize, and track daily tasks efficiently.
+- Live: https://kindernest-five.vercel.app/
+- GitHub: https://github.com/St10482946/kindernest
 
-Live Demo:
-[(Add Live Link)](https://qhawekazii.github.io/To_Do_List-/)
+### To Do List App
 
-GitHub Repository:
-https://github.com/Qhawekazii/To_Do_List-.git
+A task management application that helps users organise and track daily activities.
 
----
+- Live: https://qhawekazii.github.io/To_Do_List-/
+- GitHub: https://github.com/Qhawekazii/To_Do_List-.git
 
-### Netflix Clone
+### MeTube Clone
 
-A Netflix-inspired interface built to practice responsive layouts, content organization, and modern front-end design techniques.
+A YouTube-inspired clone built to practise responsive design, layout structure, and media-focused UI patterns.
 
-Live Demo:
-https://netflip-clone.netlify.app/?authuser=0
+- GitHub: https://github.com/Qhawekazii/MeTube-Clone.git
 
-GitHub Repository:
-https://github.com/Qhawekazii/Netflip.git
+### Netflip Clone
 
----
+A Netflix-inspired landing page clone focused on polished visuals, responsive layout, and UI design practice.
+
+- Live: https://netflip-clone.netlify.app/
+- GitHub: https://github.com/Qhawekazii/Netflip
 
 ## Education
 
@@ -97,24 +80,14 @@ Higher Certificate in Mobile Application and Web Development
 
 Current focus areas:
 
-* Fullstack Development
-* Android Development
-* User Interface Design
-* Software Development Principles
-
----
+- Fullstack development
+- Android development
+- User interface design
+- Software development principles
 
 ## Contact
 
-GitHub:
-https://github.com/Qhawekazii
-
-LinkedIn:
-https://linkedin.com/in/emily-maramani-ab0765320
-
-Portfolio:
-https://my-portfolio-three-roan-41.vercel.app/
-
-Email:
-emilyqm01@gmail.com
-
+- Portfolio: https://qhawekazii.github.io/My-Portfolio/
+- GitHub: https://github.com/Qhawekazii
+- LinkedIn: https://linkedin.com/in/emily-maramani-ab0765320
+- Email: emilym01@gmail.com
