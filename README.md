@@ -27,25 +27,18 @@ Portfolio: https://qhawekazii.github.io/My-Portfolio/
 
 ## Featured Projects
 
-### HistoQuiz App
+### BookFinder
+This is a small React app for searching books with the free Open Library Search API.
 
-A history quiz application built with Kotlin and Jetpack Compose. It includes interactive questions, score tracking, and a smooth quiz flow.
+- Live: https://book-finder-gold-nu.vercel.app/
+- GitHub: https://github.com/Qhawekazii/Book-Finder.git
 
-- Live: https://histoquizz.netlify.app/
-- GitHub: https://github.com/Qhawekazii/histoquiz
+### PawFinder- A dog breed explorer
 
-### Tesla Landing Page
+Is a responsive React web application that enables users to discover dog breeds, search and filter results, view breed details, and save favourites. The project showcases React best practices, including Context API, reusable components, API integration, and clean UI design.
 
-A responsive Tesla-inspired landing page created to strengthen frontend layout and design skills.
-
-- GitHub: https://github.com/Qhawekazii/tesla-landing-page
-
-### Chef Menu App
-
-A React Native application that allows users to browse and filter menu items through a simple interface.
-
-- Demo: https://snack.expo.dev/@qhawekazi/mast-part-3
-- GitHub: https://github.com/St10482946/ChefMenuApp
+- Live: https://react-dog-search-app.vercel.app/
+-GitHub: https://github.com/hlatsiboy113-png/react-dog-search-app.git
 
 ### KinderNest
 
@@ -54,18 +47,21 @@ A childcare platform concept designed with a clean layout and responsive user ex
 - Live: https://kindernest-five.vercel.app/
 - GitHub: https://github.com/St10482946/kindernest
 
-### To Do List App
+### iHub Website Prototype
 
-A task management application that helps users organise and track daily activities.
+This project is developed as the Sprint 5 Capstone Project. The objective is to design and build a responsive website prototype for iHub Africa that reflects its mission, services, and impact on young people pursuing careers in the digital economy.
+The project demonstrates our understanding of web development fundamentals, responsive design principles, teamwork, Git collaboration workflows, and professional project documentation.
 
-- Live: https://qhawekazii.github.io/To_Do_List-/
-- GitHub: https://github.com/Qhawekazii/To_Do_List-.git
+- Live: https://client-website-prototype-i-hub.vercel.app/
+- GitHub: https://github.com/KMukendi10/Client-Website-Prototype-iHub.git
+
 
 ### MeTube Clone
 
 A YouTube-inspired clone built to practise responsive design, layout structure, and media-focused UI patterns.
 
 - GitHub: https://github.com/Qhawekazii/MeTube-Clone.git
+- Live: https://qhawekazii.github.io/MeTube-Clone/1
 
 ### Netflip Clone
 
