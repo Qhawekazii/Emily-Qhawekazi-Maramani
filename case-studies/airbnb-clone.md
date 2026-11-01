@@ -1,7 +1,7 @@
 # Airbnb Clone — a full-stack booking platform with a host dashboard
 
 **Type:** Capstone project · **Solo**
-**Live:** [Guest site](https://emily-airbnbclone.onrender.com/) · [Host dashboard](https://emily-airbnbclone-admin.onrender.com/) · **Code:** [github.com/Qhawekazii/Emily_AirbnbClone](https://github.com/Qhawekazii/Emily_AirbnbClone)
+**Live:** [Guest site](https://emily-airbnbclone.onrender.com/) · **Code:** [github.com/Qhawekazii/Emily_AirbnbClone](https://github.com/Qhawekazii/Emily_AirbnbClone)
 **Stack:** React + Vite · Node.js · Express 5 · MongoDB + Mongoose · JWT + bcrypt · Jest + Supertest · Render
 
 ---
