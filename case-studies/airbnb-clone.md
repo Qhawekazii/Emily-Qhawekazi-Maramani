@@ -1,8 +1,8 @@
 # Airbnb Clone — a full-stack booking platform with a host dashboard
 
 **Type:** Capstone project · **Solo**
-**Code:** [github.com/Qhawekazii/Emily_AirbnbClone](https://github.com/Qhawekazii/Emily_AirbnbClone)
-**Stack:** React + Vite · Node.js · Express 5 · MongoDB + Mongoose · JWT + bcrypt · Jest + Supertest · Heroku
+**Live:** [Guest site](https://emily-airbnbclone.onrender.com/) · [Host dashboard](https://emily-airbnbclone-admin.onrender.com/) · **Code:** [github.com/Qhawekazii/Emily_AirbnbClone](https://github.com/Qhawekazii/Emily_AirbnbClone)
+**Stack:** React + Vite · Node.js · Express 5 · MongoDB + Mongoose · JWT + bcrypt · Jest + Supertest · Render
 
 ---
 
@@ -26,7 +26,7 @@ Three apps that share one backend:
 
 **Tested.** 43 API tests across auth, listings, reservations and health checks, using Jest and Supertest.
 
-**One-dyno deployment.** Express serves the API and both built React apps, so the whole platform deploys as a single Heroku app. I wrote a step-by-step deployment guide and full API docs.
+**Live on Render.** The guest site and the host dashboard are deployed as separate apps that talk to the same API. Full API docs are in the repo.
 
 ## Problems I had to solve
 
@@ -36,4 +36,4 @@ Three apps that share one backend:
 
 ## What I'd improve
 
-Add a root README with a live demo link, move the frontend API URL fully into environment config, and add date-overlap checks so two guests can't book the same nights.
+Add date-overlap checks so two guests can't book the same nights.
