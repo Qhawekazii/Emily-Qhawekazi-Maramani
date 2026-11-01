@@ -62,11 +62,11 @@ Client projects are private repositories, so each one has a public **case study*
 
 **Problem:** Guests and hosts need different things from the same data, and each should only be able to change what's theirs.
 
-**What I solved:** One REST API serving a guest site and a host dashboard, with JWT auth, bcrypt passwords, role checks, correct HTTP errors, 43 API tests and a single-app Heroku deployment.
+**What I solved:** One REST API serving a guest site and a host dashboard, with JWT auth, bcrypt passwords, role checks, correct HTTP errors and 43 API tests, live on Render.
 
 **Under the hood:** Express 5 with routes, controllers and Mongoose models kept separate, JWT middleware, bcrypt in a pre-save hook, central error handling, and Jest + Supertest against a test database.
 
-📄 [Read the case study](case-studies/airbnb-clone.md) · 💻 [Code](https://github.com/Qhawekazii/Emily_AirbnbClone)
+📄 [Read the case study](case-studies/airbnb-clone.md) · 🌐 [Live site](https://emily-airbnbclone.onrender.com/) · 🛠️ [Host dashboard](https://emily-airbnbclone-admin.onrender.com/) · 💻 [Code](https://github.com/Qhawekazii/Emily_AirbnbClone)
 
 ### Tic-Tac-Toe · Neon Arena — clean state with an unbeatable CPU
 `Intern assignment` `Solo` · React, useReducer
