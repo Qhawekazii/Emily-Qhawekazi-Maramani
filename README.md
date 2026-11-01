@@ -2,6 +2,8 @@
 
 **Product engineer · UI/UX designer · Full-stack developer · Johannesburg, South Africa**
 
+> 🟢 **Open to work:** junior product engineer, full-stack or front-end roles · **freelance** websites and web apps · **remote**, or on-site in Johannesburg. [Get in touch](mailto:emilyqm01@gmail.com).
+
 > A dentist sees a cavity and fills it. I see the gaps in the digital world, and I fill them.
 
 The awkward flow, the form that quietly loses data, the tool a team pays for that still doesn't do the job: those are the gaps I notice. I'm UX/UI-focused because an idea only works if all kinds of people can use it, on any phone, in any language, with any level of confidence on a screen. Then I ideate, design and actually put it into action, and I don't stop until it ships. That's why I'm moving into product engineering: owning a product from the gap I spotted to the feature people use.
